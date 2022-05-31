@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Hannes"
-  given-names: "Waclawek"
+- family-names: "Waclawek"
+  given-names: "Hannes"
 - family-names: "Huber"
   given-names: "Stefan"
 title: "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers"
