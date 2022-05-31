@@ -1,1 +1,1 @@
-# tf-for-splineapprox
+# \mathcal{C}^k
