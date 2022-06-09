@@ -1,6 +1,6 @@
 # Spline Approximation with TensorFlow Gradient Descent Optimizers for Use in Cam Approximation 
 
-Experimental Python code developed for research on paper "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers", doi: TODO.
+*Experimental* Python code developed for research on paper "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers", doi: TODO.
 If you use this software or parts of it, please cite as outlined in _CITATION.cff_.
 
 # Module fhs.camspline
