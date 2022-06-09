@@ -6,7 +6,7 @@ If you use this software or parts of it, please cite as outlined in _CITATION.cf
 ## Experiments
 Folder _experiments_ includes test runs performed for research on paper "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers", doi: TODO.
 
-# Module fhs.camspline
+# Module tfspline
 Allows fitting of polynomial splines of arbitrary degree and C^k-continuity.  
    
 ![Sine](/fig/sine.PNG)
