@@ -3,7 +3,7 @@
 **Experimental** Python code developed for research on paper "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers", doi: TODO.
 If you use this software or parts of it, please cite as outlined in _CITATION.cff_.
 
-## Experiments
+# Experiments
 Folder _experiments_ includes test runs performed for research on paper "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers", doi: TODO.
 
 # Module tfspline
