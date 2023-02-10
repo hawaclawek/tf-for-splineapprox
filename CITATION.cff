@@ -6,5 +6,5 @@ authors:
 - family-names: "Huber"
   given-names: "Stefan"
 title: "Ck-continuous Spline Approximation with TensorFlow Gradient Descent Optimizers"
-doi: TODO
-date-released: TODO
+doi: https://doi.org/10.1007/978-3-031-25312-6_68
+date-released: 2023-02-10
